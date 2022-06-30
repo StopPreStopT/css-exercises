@@ -1,4 +1,8 @@
-.standard {
+.standard{
     background-color: #ffc0cb;
     font-family: Verdana, DejaVu Sans, sans-serif
+}
+
+.plus {
+    font-size: 24px;
 }
